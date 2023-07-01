@@ -57,3 +57,8 @@
    ```c++
        项目属性  --> C/C++ --> 常规 --> SDL检查 --> 将  是(/sdl)  改为 否(/sdl-)
     ```
+    
+  * `C4996	'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.	`
+    ```c++
+       项目属性  --> C/C++ --> 常规 --> SDL检查 --> 将  是(/sdl)  改为 否(/sdl-)
+    ```
