@@ -1,4 +1,9 @@
 ﻿  main.cpp
-D:\Dev\Plants_vs_Zombies\PVZ\PVZ\main.cpp(96,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
-D:\Dev\Plants_vs_Zombies\PVZ\PVZ\main.cpp(106,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Dev\Plants_vs_Zombies\PVZ\PVZ\main.cpp(99,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Dev\Plants_vs_Zombies\PVZ\PVZ\main.cpp(102,34): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Dev\Plants_vs_Zombies\PVZ\PVZ\main.cpp(101,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Dev\Plants_vs_Zombies\PVZ\PVZ\main.cpp(139,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\Dev\Plants_vs_Zombies\PVZ\PVZ\main.cpp(149,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Dev\Plants_vs_Zombies\PVZ\PVZ\main.cpp(350,35): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+D:\Dev\Plants_vs_Zombies\PVZ\PVZ\main.cpp(351,35): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
   PVZ.vcxproj -> D:\Dev\Plants_vs_Zombies\PVZ\Debug\PVZ.exe
